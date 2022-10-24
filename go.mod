@@ -1,4 +1,4 @@
-module github.com/ddmin/logo-ls
+replace github.com/Yash-Handa/logo-ls => github.com/ddmin/logo-ls
 
 go 1.17
 
